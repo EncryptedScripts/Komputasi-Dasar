@@ -4,7 +4,7 @@ Hanya kumpulan tugas lol
 
 ## Table of Contents
 
-- [Basic Computing Assignments](#TugasKomdas)
+- [Basic Computing Assignments](/tugas-komdas)
   - [Tugas Python 1](/tugas-komdas/tugas1.py)
   - [Tugas Python 2](/tugas-komdas/tugas2.py)
   - [Tugas Python 3](/tugas-komdas/tugas3.py)
