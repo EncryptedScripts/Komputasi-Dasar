@@ -8,6 +8,9 @@ Hanya kumpulan tugas lol
   - [Tugas Python 1](/tugas-komdas/tugas1.py)
   - [Tugas Python 2](/tugas-komdas/tugas2.py)
   - [Tugas Python 3](/tugas-komdas/tugas3.py)
+- [CTF Dump](/CTF)
+  - [Tugas Python 1](/CTF/Cryptography)
+  - [Tugas Python 2](/CTF/FlagGPT)
 
 ## About the Project
 
