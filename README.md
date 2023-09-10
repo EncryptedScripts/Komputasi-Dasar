@@ -5,7 +5,7 @@ Hanya kumpulan tugas lol
 ## Table of Contents
 
 - [Project Name](#TugasKomdas)
-  - [Table of Contents](#tugas1)
+  - [Tugas1](blob/main/tugas-komdas/tugas1.py)
   - [Table of Contents](#tugas2)
   - [Table of Contents](#tugas3)
 
