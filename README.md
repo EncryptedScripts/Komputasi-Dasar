@@ -4,10 +4,10 @@ Hanya kumpulan tugas lol
 
 ## Table of Contents
 
-- [Project Name](#TugasKomdas)
-  - [Tugas1](blob/main/tugas-komdas/tugas1.py)
-  - [Table of Contents](#tugas2)
-  - [Table of Contents](#tugas3)
+- [Basic Computing Assignments](#TugasKomdas)
+  - [Tugas Python 1](/tugas-komdas/tugas1.py)
+  - [Tugas Python 2](/tugas-komdas/tugas2.py)
+  - [Tugas Python 3](/tugas-komdas/tugas3.py)
 
 ## About the Project
 
