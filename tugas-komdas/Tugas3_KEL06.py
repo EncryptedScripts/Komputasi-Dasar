@@ -1,19 +1,3 @@
-#########################################
-#
-# Tugas 3 Komputasi Dasar
-# --------------------------
-# Kelompok : MATxx / AKTxx
-# Tim programmer:
-# 1.
-# 2.
-# 3.
-# 4.
-# 5.
-# 6.
-#
-# Tanggal upload : __ September 2023
-#
-
 import math
 
 #########
