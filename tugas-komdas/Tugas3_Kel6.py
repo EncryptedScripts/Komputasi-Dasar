@@ -1,18 +1,3 @@
-#########################################
-#
-# Tugas 3 Komputasi Dasar
-#--------------------------
-# Kelompok : 6 MAT59
-# Tim programmer:
-# 1. M. Naufal Afif (G5401221099)
-# 2. Andyana Lilmuttaqina Mafaza (G6401211002)
-# 3. Bagus Muliasa Insani (G5401221047) 
-# 4. Nadhifa Zahra Ghaisani (G5401221057)
-# 5. Nadhira Maulida Hayani (G5401221004) 
-# 6. Septiana Isna Dian Noor (G5401221014) 
-#
-# Tanggal upload : 12 September 2023
-
 import matplotlib.pyplot as plt
 import numpy as np
 # di sini saya meng import 2 library, yaitu matplotlib.pyplot dan numpy
