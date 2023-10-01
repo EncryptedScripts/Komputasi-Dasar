@@ -10,6 +10,7 @@ Hanya kumpulan tugas lol
   - [Tugas Python 3](/tugas-komdas/tugas3.py)
   - [Tugas Python 3 Ver. 2](/tugas-komdas/Tugas3_Kel6.py)
   - [Tugas Python 3 Ver. 3](/tugas-komdas/Tugas3_KEL06.py)
+  - [Tugas Python 5 ](/tugas-komdas/meet6.py)
 - [CTF Dump](/CTF)
   - [Crypto](/CTF/Cryptography)
   - [FlagGPT Solver](/CTF/FlagGPT)
