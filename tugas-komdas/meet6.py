@@ -75,14 +75,14 @@ def daftarFakultas():
 
     fakultas_names = {
         'A': 'Fakultas Pertanian',
-        'B': 'Fakultas Kehutanan',
+        'B': 'Sekolah Kedokteran Hewan dan Biomedis',
         'C': 'Fakultas Perikanan dan Ilmu Kelautan',
         'D': 'Fakultas Peternakan',
-        'E': 'Fakultas Teknologi Pertanian',
-        'F': 'Fakultas Matematika dan Ilmu Pengetahuan Alam',
-        'G': 'Fakultas Ekonomi dan Manajemen',
-        'H': 'Fakultas Ekologi Manusia',
-        'I': 'Fakultas Tambahan',
+        'E': 'Fakultas Kehutanan dan Lingkungan',
+        'F': 'Fakultas Teknologi Pertanian',
+        'G': 'Fakultas Matematika dan Ilmu Pengetahuan Alam',
+        'H': 'Fakultas Ekonomi dan Manajemen',
+        'I': 'Fakultas Ekologi Manusia',
     }
 
     huruf_mutu_counts = {}                # Dictionary untuk menghitung jumlah mahasiswa per huruf mutu.
@@ -162,14 +162,14 @@ def tabelDistribusiNilaiMutuPerFakultas():
 
     fakultas_names = {
         'A': 'Fakultas Pertanian',
-        'B': 'Fakultas Kehutanan',
+        'B': 'Sekolah Kedokteran Hewan dan Biomedis',
         'C': 'Fakultas Perikanan dan Ilmu Kelautan',
         'D': 'Fakultas Peternakan',
-        'E': 'Fakultas Teknologi Pertanian',
-        'F': 'Fakultas Matematika dan Ilmu Pengetahuan Alam',
-        'G': 'Fakultas Ekonomi dan Manajemen',
-        'H': 'Fakultas Ekologi Manusia',
-        'I': 'Fakultas Tambahan',
+        'E': 'Fakultas Kehutanan dan Lingkungan',
+        'F': 'Fakultas Teknologi Pertanian',
+        'G': 'Fakultas Matematika dan Ilmu Pengetahuan Alam',
+        'H': 'Fakultas Ekonomi dan Manajemen',
+        'I': 'Fakultas Ekologi Manusia',
     }
 
     # Membuat format string untuk header tabel
