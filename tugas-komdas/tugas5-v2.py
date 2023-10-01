@@ -161,7 +161,7 @@ def print_grade_distribution(grade_distribution):
 
 # Fungsi utama program.
 def main():
-    file_path = r'Lokasi-File-Nya-Di-Laptop-Kamu\NilaiUTS-UAS_prediksi.csv'  # Ganti dengan lokasi file CSV Anda.
+    file_path = r'Lokasi-File-Nya-Di-Laptop-Kamu\NilaiUTS-UAS_prediksi.csv'  # Ganti dengan lokasi file CSV Kamu.
     student_data = read_student_data(file_path)
 
     print_student_data(student_data)
